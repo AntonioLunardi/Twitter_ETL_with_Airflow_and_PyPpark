@@ -7,3 +7,5 @@ Data lake is divided into 3 Categories: Bronze, silver and gold. Raw extrated da
 Airflow is used to schedule and order the processes. Although this is a small data project, Spark is used for educational and training purposes. This is a simple version of a data engineering task with big data and automated pipelines.
 
 Airflow pipeline is divided into 3 folders: Hook, operator and insight. Hook has the script in witch the connection with API is stablished data is obtained. The operator script makes the data cleaning and treatment. Insight is responsible for the loading process.
+
+'src' has also a notebooks folder that contains short data analyses of each category of data lake groups.
