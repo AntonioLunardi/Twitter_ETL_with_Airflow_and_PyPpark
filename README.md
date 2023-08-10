@@ -1,5 +1,13 @@
 # Twitter_ETL_with_airflow
 
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | **Twitter ETL with Airflow and Spark**
+| :label: Tecnologias | Power BI, SQL Server, Integration Services, Analysis Services, MDX
+
+![](/sucos.bmp#vitrinedev)
+
+
 Process of scheduled data extraction, transform and load is done using Apache Airflow in a tweet simulator website (the API became paid).
 
 Data lake is divided into 3 Categories: Bronze, silver and gold. Raw extrated data is stored in bronze folder. Silver is the data with some treatment to ease viasualization and statistical/machine learning model creation. Gold has more automated data organization.
