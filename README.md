@@ -3,9 +3,9 @@
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Twitter ETL with Airflow and Spark**
-| :label: Tecnologias | Power BI, SQL Server, Integration Services, Analysis Services, MDX
+| :label: Tecnologias | Apache Airflow, PySpark, Spark, Python
 
-![](/sucos.bmp#vitrinedev)
+![](/twitter.jpg#vitrinedev)
 
 
 Process of scheduled data extraction, transform and load is done using Apache Airflow in a tweet simulator website (the API became paid).
