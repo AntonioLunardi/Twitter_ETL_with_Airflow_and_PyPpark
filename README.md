@@ -1,8 +1,8 @@
-# Twitter_ETL_with_airflow
+# Twitter ETL with Airflow and PySpark
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Twitter ETL with Airflow and Spark**
+| :sparkles: Nome        | **Twitter ETL with Airflow and PySpark**
 | :label: Tecnologias | Apache Airflow, PySpark, Spark, Python
 
 ![](/twitter.jpg#vitrinedev)
